@@ -1,3 +1,2 @@
-# 10DaysOfLearning
-
-from 29th Dec,2021 to 7th Jan,2022
+# LearningAndExploring
+Short notebooks of learning and exploring various topics in computer science.
